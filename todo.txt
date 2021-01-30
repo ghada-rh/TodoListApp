@@ -1,0 +1,9 @@
+Pour la mise en place de l'application:
+
+-Télécharger le dossier du projet.
+-Ouvrir le projet avec VScode.
+-Ouvrir le terminal dans vscode et taper "npm install"
+-une fois le package est installé taper "npm start" pour lancer l'application
+-Connectez-vous avec l'email: "test@test.com" et le password :"test"
+-Vous pouvez maintenant ajouter, supprimer, modifier des tâches  ou marquer une tâche comme complétée ou non complétée.
+-pour arrêter l'exécution du programme taper "ctrl" et "c" puis taper "o".
